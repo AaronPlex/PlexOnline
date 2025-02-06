@@ -11,7 +11,7 @@ title: Publications
     <a href="videos.md">Videos</a>
 </nav>
 
-# Publications
+# **Publications**
 
 ## Peer-Reviewed Journal Articles
 1. Etherton BA, **Plex Sulá AI**, Mouafo-Tchinda RA, Kakuhenzire R, Kassaye HA, Asfaw F, Kosmakos VS, McCoy RW, Xing Y, Yao J, Sharma K, Garrett KA. 2025. **[Translating Ethiopian potato seed networks: Identifying strategic intervention points for managing bacterial wilt and other diseases.](https://www.sciencedirect.com/science/article/pii/S0308521X24003172)** *Agricultural Systems* 222: 104167.
