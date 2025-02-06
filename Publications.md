@@ -20,7 +20,7 @@ title: Publications
 4. **Title of Paper 3** – *Author(s)*, *Journal Name*, Year. [PDF](link-to-pdf)
 
 ## Conference Proceedings
-- **[Paper in Conference](https://conference-link.com)** – *Author(s)*, *Conference Name*, Year.
+- **[Paper in Conference](https://conference-link.com)** – *Author1(s)*, *Conference Name*, Year.
 - **Another Conference Paper** – *Author(s)*, *Conference Name*, Year.
 
 ## Preprints & Other Publications
