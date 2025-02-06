@@ -17,6 +17,15 @@ title: Aaron I. Plex Sulá
 
 # Welcome to Plex's Website
 
+<p align="center">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/WyZNBAJ9NAY?si=tp4WwrHF7pNaVKII" 
+    title="YouTube video player" frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+    referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+    </iframe>
+</p>
+
+
 [![Download Plex's CV](https://img.shields.io/badge/Download-Plex's_CV-blue?style=for-the-badge&logo=adobe)](PlexCV2025.pdf)
 
 This is my personal website hosted on GitHub Pages.
