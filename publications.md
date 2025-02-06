@@ -11,8 +11,6 @@ title: Publications
     <a href="videos.md">Videos</a>
 </nav>
 
-# **Publications**
-
 ## 7 Peer-Reviewed Journal Articles
 1. Etherton BA, **Plex Sulá AI**, Mouafo-Tchinda RA, Kakuhenzire R, Kassaye HA, Asfaw F, Kosmakos VS, McCoy RW, Xing Y, Yao J, Sharma K, Garrett KA. 2025. **[Translating Ethiopian potato seed networks: Identifying strategic intervention points for managing bacterial wilt and other diseases.](https://www.sciencedirect.com/science/article/pii/S0308521X24003172)** *Agricultural Systems* 222: 104167.
 2. **Plex Sulá AI**, De Col V, Etherton BA, Xing Y, Agarwal A, Ramic L, Bonaiuti E, Friedmann M, Proietti C, Thiele G, Garrett KA. 2024. **[What traits of collaboration networks are associated with project success? The case of two CGIAR agricultural research programs for development](https://doi.org/10.1016/j.agsy.2024.104013)** *Agricultural Systems* 219: 104013.
@@ -25,6 +23,9 @@ title: Publications
 ## 1 Book Chapter
 - Garrett KA, Thomas-Sharma S, Forbes GA, Hernandez Nopsa JF, **Plex Sulá AI**. 2023. **[Climate change and plant pathogen invasions](https://www.cabidigitallibrary.org/doi/book/10.1079/9781800621459.0000)**. Chapter 3. In: Ziska L. Invasive species and global climate change, 2nd edition. *CAB International*: 22-49.
 
-## Preprints & Other Publications
+## 2 Preprints
 1.  Mouafo-Tchinda RA, **Plex Sulá AI**, Etherton BA, Okonya JS, Valentine Nakato GV, Xing Y, Robledo Buritica J, Adhikari A, Blomme G, Kantungeko D, Nduwayezu A, Kreuze J, Kroschel J, Legg J, Garrett KA. **[Pest and pathogen communities in food security crops across climate gradients: Anticipating future challenges in the Great Lakes region of Africa.](https://doi.org/10.1101/2025.01.08.631994)** DOI: 10.1101/2025.01.08.631994
 2. Mouafo-Tchinda RA, Etherton BA, **Plex Sulá AI**, Andrade-Piedra J, Ogero K, Omondi BA, McEwan M, Tene Tayo PM, Harahagazme D, Cherinet M, Gebeyehu S, Sperling L. Garrett KA. 2024. **[Pathogen and pest risks to vegetatively propagated crops in humanitarian contexts: Geographic priorities for Cameroon and Ethiopia.](https://doi.org/10.1101/2024.02.12.580019)** DOI: 10.1101/2024.02.12.580019
+
+## Manuscripts coming soon...
+
