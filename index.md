@@ -11,7 +11,9 @@ title: Aaron I. Plex Sulá
     <a href="videos.md">Videos</a>
 </nav>
 
-<img src="PlexProfile.JPG" alt="" width="200">
+<p align="center">
+    <img src="PlexProfile.JPG" alt="" width="500">
+</p>
 
 # Welcome to Plex's Website
 
