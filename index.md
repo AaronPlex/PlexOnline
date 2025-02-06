@@ -1,2 +1,2 @@
-# Welcome to My Project Plex
+# Welcome to Plex's website
 This is a website hosted on GitHub Pages.
