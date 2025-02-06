@@ -17,4 +17,7 @@ title: Aaron I. Plex Sulá
 
 # Welcome to Plex's Website
 
+[![Download Plex's CV](https://img.shields.io/badge/Download-Plex's_CV-blue?style=for-the-badge&logo=adobe)](PlexCV2025.pdf)
+
 This is my personal website hosted on GitHub Pages.
+
