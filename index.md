@@ -30,3 +30,14 @@ title: Aaron I. Plex Sulá
 
 This is my personal website hosted on GitHub Pages.
 
+<p><strong>Last updated:</strong> <span id="last-updated"></span></p>
+
+<script>
+    // Get the last modified date of the page
+    const lastModified = new Date(document.lastModified);
+
+    // Format it as "Month Day, Year" (e.g., "February 5, 2025")
+    const options = { year: 'numeric', month: 'long', day: 'numeric' };
+    document.getElementById("last-updated").innerHTML = lastModified.toLocaleDateString('en-US', options);
+</script>
+
