@@ -28,7 +28,8 @@ title: Aaron I. Plex Sulá
 
 [![Download Plex's CV](https://img.shields.io/badge/Download-Plex's_CV-blue?style=for-the-badge&logo=adobe)](PlexCV2025.pdf)
 
-This is my personal website hosted on GitHub Pages.
+Add social media just below the name as it is GitHub icon at the moment: Twiter or X, LinkedIn, GitHub, Google Scholar, ResearchGate, OrcID
+Add important links: Garrettlab.com
 
 <p><strong>Last updated:</strong> <span id="last-updated"></span></p>
 
