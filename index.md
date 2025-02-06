@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Plex's Website
+title: Aaron I. Plex Sulá
 ---
 
 <nav>
