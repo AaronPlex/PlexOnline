@@ -11,6 +11,8 @@ title: Aaron I. Plex Sulá
     <a href="videos.md">Videos</a>
 </nav>
 
+<img src="PlexProfile.JPG" alt="Plex's Picture" width="200">
+
 # Welcome to Plex's Website
 
 This is my personal website hosted on GitHub Pages.
