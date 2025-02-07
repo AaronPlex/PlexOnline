@@ -23,14 +23,14 @@ Click on a title to read the poem.
         Venías a verme siempre y yo pensaba en ti todos los días.    
     </p>
 
-    </p>
+    <p>
         Recuerda príncipe, dijo:<br>
         Tus labios rojos carmesí se derriten como bon bon bum en mi boca.<br>
         Tu piel sabe como miel de abeja a mi paladar.<br>
         El mundo se vuelve extraordinario a tu lado.
     </p>
 
-    </p>
+    <p>
         Cinco veranos han sido infiernos pesadísimos.<br>
         1769 noches crueles sin detenerse...<br>
         Te extraño un poco más con cada día que pasa.<br>
@@ -41,7 +41,7 @@ Click on a title to read the poem.
         La incertidumbre de no poder verte de nuevo mutila mi alma.  
     </p>
 
-    </p>
+    <p>
         Al cerrar mis ojos, el eco de tu voz en mi memoria fluye como platino líquido.<br>
         Desearía ser prisionero del pasado para ver tu rostro por la eternidad.<br>
         Mas, hoy, mi carcel es el presente, aquí y ahora.<br>
@@ -50,14 +50,14 @@ Click on a title to read the poem.
         la frescura del aire es sin sabor.
     </p>
 
-    </p>
+    <p>
         El corazón siempre ganó frente a la mente.<br>
         Y cuan minúsculo es el ser frente al universo infinito.<br>
         Pero pido a Dios Altísimo y amoroso cuide de ti a dondequiera que vayas.<br>
         Ruego para que su escudo de paz proteja al principito que vino a verme sin conocerme tanto y vio una estrella en mí.
     </p>
 
-    </p>
+    <p>
         1 de noviembre 2024
     </p>
 </div>
