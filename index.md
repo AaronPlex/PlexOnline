@@ -11,12 +11,28 @@ title: Aaron I. Plex Sulá
     <a href="videos.md">Videos</a>
 </nav>
 
+<!-- Social Media Buttons -->
+
+[![GitHub](https://img.shields.io/badge/GitHub-View%20on%20GitHub-black?style=for-the-badge&logo=github)](https://github.com/AaronPlex)
+
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue?style=for-the-badge&logo=google-scholar)](https://scholar.google.com/citations?user=t1kkSGQAAAAJ&hl=en)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aaron-i-plex-sula-3a461627b/)
+
+[![X (Twitter)](https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=twitter)](https://x.com/PlexAaron)
+
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-green?style=for-the-badge&logo=researchgate)](https://www.researchgate.net/profile/Aaron-Plex-2?ev=hdr_xprf)
+
+[![ORCID](https://img.shields.io/badge/ORCID-Profile-brightgreen?style=for-the-badge&logo=orcid)](https://orcid.org/my-orcid?orcid=0000-0001-7317-3090)
+
+<!-- Profile Picture -->
 <p align="center">
     <img src="PlexProfile.JPG" alt="" width="500">
 </p>
 
 # Welcome to Plex's Website
 
+<!-- YouTube video -->
 <p align="center">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/WyZNBAJ9NAY?si=tp4WwrHF7pNaVKII" 
     title="YouTube video player" frameborder="0" 
@@ -25,12 +41,13 @@ title: Aaron I. Plex Sulá
     </iframe>
 </p>
 
-
+<!-- Curriculum Vitae PDF -->
 [![Download Plex's CV](https://img.shields.io/badge/Download-Plex's_CV-blue?style=for-the-badge&logo=adobe)](PlexCV2025.pdf)
 
 Add social media just below the name as it is GitHub icon at the moment: Twiter or X, LinkedIn, GitHub, Google Scholar, ResearchGate, OrcID
 Add important links: Garrettlab.com
 
+<!-- Update note -->
 <p><strong>Last updated:</strong> <span id="last-updated"></span></p>
 
 <script>
