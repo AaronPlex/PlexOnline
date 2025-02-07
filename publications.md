@@ -4,11 +4,11 @@ title: Publications
 ---
 
 <nav>
-    <a href="index.md">Home</a> |
-    <a href="publications.md">Publications</a> |
-    <a href="about.md">Poetry</a> |
-    <a href="software.md">Software</a> |
-    <a href="videos.md">Videos</a>
+    <a href="index.html">Home</a> |
+    <a href="publications.html">Publications</a> |
+    <a href="poetry.html">Poetry</a> |
+    <a href="software.html">Software</a> |
+    <a href="videos.html">Videos</a>
 </nav>
 
 ## 7 Peer-Reviewed Journal Articles
