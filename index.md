@@ -55,7 +55,7 @@ title: Aaron I. Plex Sulá
 <!-- Curriculum Vitae PDF -->
 [![Download Plex's CV](https://img.shields.io/badge/Download-Plex's_CV-blue?style=for-the-badge&logo=adobe)](PlexCV2025.pdf)
 
-Add important links: Garrettlab.com
+Add important links: Garrettlab.com 
 
 <!-- Update note -->
 <p><strong>Last updated:</strong> <span id="last-updated"></span></p>
