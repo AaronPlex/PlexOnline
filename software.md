@@ -13,7 +13,7 @@ title: Software
 
 <!-- goehabnet logo -->
 <p align="center">
-    <img src="geohabnet-logo.JPG" alt="" width="400">
+    <img src="geohabnet-logo.jpg" alt="" width="400">
 </p>
 
 Add a link for geohabnet
