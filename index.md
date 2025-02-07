@@ -12,18 +12,29 @@ title: Aaron I. Plex Sulá
 </nav>
 
 <!-- Social Media Buttons -->
+<p align="center">
+    <a href="https://scholar.google.com/citations?user=t1kkSGQAAAAJ&hl=en" target="_blank">
+        <img src="https://img.shields.io/badge/Google%20Scholar-Profile-blue?style=for-the-badge&logo=google-scholar">
+    </a>
+    <a href="https://www.linkedin.com/in/aaron-i-plex-sula-3a461627b/">
+        <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+    </a>
+    <a href="https://www.researchgate.net/profile/Aaron-Plex-2?ev=hdr_xprf" target="_blank">
+        <img src="https://img.shields.io/badge/ResearchGate-Profile-green?style=for-the-badge&logo=researchgate">
+    </a>
+</p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-View%20on%20GitHub-black?style=for-the-badge&logo=github)](https://github.com/AaronPlex)
-
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue?style=for-the-badge&logo=google-scholar)](https://scholar.google.com/citations?user=t1kkSGQAAAAJ&hl=en)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aaron-i-plex-sula-3a461627b/)
-
-[![X (Twitter)](https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=twitter)](https://x.com/PlexAaron)
-
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-green?style=for-the-badge&logo=researchgate)](https://www.researchgate.net/profile/Aaron-Plex-2?ev=hdr_xprf)
-
-[![ORCID](https://img.shields.io/badge/ORCID-Profile-brightgreen?style=for-the-badge&logo=orcid)](https://orcid.org/my-orcid?orcid=0000-0001-7317-3090)
+<p align="center">
+    <a href="https://github.com/AaronPlex" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-View%20on%20GitHub-black?style=for-the-badge&logo=github">
+    </a>
+    <a href="https://x.com/PlexAaron"_blank">
+        <img src="https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=twitter">
+    </a>
+    <a href="https://orcid.org/my-orcid?orcid=0000-0001-7317-3090" target="_blank">
+        <img src="https://img.shields.io/badge/ORCID-Profile-brightgreen?style=for-the-badge&logo=orcid">
+    </a>
+</p>
 
 <!-- Profile Picture -->
 <p align="center">
