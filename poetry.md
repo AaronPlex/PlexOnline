@@ -17,7 +17,7 @@ Click on a title to read the poem.
 
 <!-- Poem 1 -->
 <h3 onclick="togglePoem('poem1')" style="cursor: pointer; color: blue;">📖 Cold evening</h3>
-<div id="poem1" style="display: none;">
+<div id="poem1" class="poem">
     <p>
         Cuatro veranos duró el paraíso tropical.<br>
         Venías a verme siempre y yo pensaba en ti todos los días.    
@@ -30,7 +30,7 @@ Click on a title to read the poem.
         El mundo se vuelve extraordinario a tu lado.
     </p>
 
-    <p>
+    </p>
         Cinco veranos han sido infiernos pesadísimos.<br>
         1769 noches crueles sin detenerse...<br>
         Te extraño un poco más con cada día que pasa.<br>
