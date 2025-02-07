@@ -17,7 +17,7 @@ Click on a title to read the poem.
 
 <!-- Poem 1 -->
 <h3 onclick="togglePoem('poem1')" style="cursor: pointer; color: blue;">📖 Cold evening</h3>
-<div id="poem1" class="poem">
+<div id="poem1" style="display: none;">
     <p>
         Cuatro veranos duró el paraíso tropical.<br>
         Venías a verme siempre y yo pensaba en ti todos los días.    
@@ -84,13 +84,5 @@ Click on a title to read the poem.
     </p>
 </div>
 
-<script>
-    function togglePoem(poemId) {
-        var poem = document.getElementById(poemId);
-        if (poem.style.display === "none") {
-            poem.style.display = "block";
-        } else {
-            poem.style.display = "none";
-        }
-    }
-</script>
+<script src="togglePoems.js"></script>
+
