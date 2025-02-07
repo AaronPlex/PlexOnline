@@ -16,13 +16,39 @@ title: Poetry
 Click on a title to read the poem.
 
 <!-- Poem 1 -->
-<h3 onclick="togglePoem('poem1')" style="cursor: pointer; color: blue;">📖 The Beauty of Nature</h3>
+<h3 onclick="togglePoem('poem1')" style="cursor: pointer; color: blue;">📖 Cold evening</h3>
 <div id="poem1" style="display: none;">
     <p>
-        The sun sets over golden fields,<br>
-        A whispering breeze, a warmth it yields.<br>
-        The stars appear, a tranquil sight,<br>
-        Embracing all in peaceful night.
+        Cuatro veranos duró el paraíso tropical.<br>
+        Venías a verme siempre y yo pensaba en ti todos los días.<br>
+
+        Recuerda príncipe, dijo:<br>
+        Tus labios rojos carmesí se derriten como bon bon bum en mi boca.<br>
+        Tu piel sabe como miel de abeja a mi paladar.<br>
+        El mundo se vuelve extraordinario a tu lado.<br>
+
+        Cinco veranos han sido infiernos pesadísimos.<br>
+        1769 noches crueles sin detenerse...<br>
+        Te extraño un poco más con cada día que pasa.<br>
+        Extraño a morir los finos destellos de tus ojos.<br>
+        Se dice que ahora el príncipe llora un río por ti.<br>
+        Como duele no ver tus ojitos caramelo nunca más.<br>
+        Your eyes are the cutest thing I have ever seen.<br>
+        La incertidumbre de no poder verte de nuevo mutila mi alma.<br>
+
+        Al cerrar mis ojos, el eco de tu voz en mi memoria fluye como platino líquido.<br>
+        Desearía ser prisionero del pasado para ver tu rostro por la eternidad.<br>
+        Mas, hoy, mi carcel es el presente, aquí y ahora.<br>
+        El futuro viene constante sin detenerse, sin darse cuenta que ya no estás aquí conmigo.<br>
+        Tan cruel es la distancia inquebrantable y<br>
+        la frescura del aire es sin sabor.<br>
+
+        El corazón siempre ganó frente a la mente.<br>
+        Y cuan minúsculo es el ser frente al universo infinito.<br>
+        Pero pido a Dios Altísimo y amoroso cuide de ti a dondequiera que vayas.<br>
+        Ruego para que su escudo de paz proteja al principito que vino a verme sin conocerme tanto y vio una estrella en mí.<br>
+        
+        1 de noviembre 2024
     </p>
 </div>
 
