@@ -28,7 +28,7 @@ title: Aaron I. Plex Sulá
     <a href="https://github.com/AaronPlex" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-View%20on%20GitHub-black?style=for-the-badge&logo=github">
     </a>
-    <a href="https://x.com/PlexAaron"_blank">
+    <a href="https://x.com/PlexAaron" target="_blank">
         <img src="https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=twitter">
     </a>
     <a href="https://orcid.org/my-orcid?orcid=0000-0001-7317-3090" target="_blank">
@@ -55,7 +55,6 @@ title: Aaron I. Plex Sulá
 <!-- Curriculum Vitae PDF -->
 [![Download Plex's CV](https://img.shields.io/badge/Download-Plex's_CV-blue?style=for-the-badge&logo=adobe)](PlexCV2025.pdf)
 
-Add social media just below the name as it is GitHub icon at the moment: Twiter or X, LinkedIn, GitHub, Google Scholar, ResearchGate, OrcID
 Add important links: Garrettlab.com
 
 <!-- Update note -->
