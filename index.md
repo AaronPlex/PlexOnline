@@ -6,7 +6,7 @@ title: Aaron I. Plex Sulá
 <nav>
     <a href="index.md">Home</a> |
     <a href="publications.html">Publications</a> |
-    <a href="about.md">Poetry</a> |
+    <a href="poetry.md">Poetry</a> |
     <a href="software.html">Software</a> |
     <a href="videos.md">Videos</a>
 </nav>
@@ -56,6 +56,7 @@ title: Aaron I. Plex Sulá
 [![Download Plex's CV](https://img.shields.io/badge/Download-Plex's_CV-blue?style=for-the-badge&logo=adobe)](PlexCV2025.pdf)
 
 Add important links: Garrettlab.com 
+Add interests
 
 <!-- Update note -->
 <p><strong>Last updated:</strong> <span id="last-updated"></span></p>
