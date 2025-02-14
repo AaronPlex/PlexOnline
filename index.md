@@ -57,10 +57,21 @@ title: Aaron I. Plex Sulá
 
 Hi there! I am Plex, a PhD student in the [Garrett lab](https://www.garrettlab.com/) in the Plant Pathology Department at the University of Florida.
 
-Add interests
+**Current areas of research**
+
+ - Global surveillance and mitigation systems
+ - Global pathogen and pest diversity
+ - Geographic pest and pathogen risks
+ - Invasion and epidemic networks
+ - Landscape epidemiology
+ - Research collaboration networks
+ - Geographic information systems (GIS)
+ - Artificial intelligence (AI)
 
 **Contact information**
+
 Institutional email - plexaaron@ufl.edu
+
 Gmail - plexaaron@gmail.com
 
 <!-- Update note -->
