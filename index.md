@@ -61,7 +61,7 @@ Hi there! I am Plex, a PhD student in the [Garrett lab](https://www.garrettlab.c
 
  - Global surveillance and mitigation systems
  - Global pathogen and pest diversity
- - Geographic pest and pathogen risks
+ - Geographic invasion risk assessment
  - Invasion and epidemic networks
  - Landscape epidemiology
  - Research collaboration networks
@@ -70,9 +70,8 @@ Hi there! I am Plex, a PhD student in the [Garrett lab](https://www.garrettlab.c
 
 **Contact information**
 
-Institutional email - plexaaron@ufl.edu
-
-Gmail - plexaaron@gmail.com
+ Institutional email - plexaaron@ufl.edu
+ Gmail - plexaaron@gmail.com
 
 <!-- Update note -->
 <p><strong>Last updated:</strong> <span id="last-updated"></span></p>
