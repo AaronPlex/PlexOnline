@@ -4,11 +4,11 @@ title: Poetry
 ---
 
 <nav>
-    <a href="index.md">Home</a> |
+    <a href="index.html">Home</a> |
     <a href="publications.html">Publications</a> |
-    <a href="poetry.md">Poetry</a> |
+    <a href="poetry.html">Poetry</a> |
     <a href="software.html">Software</a> |
-    <a href="videos.md">Videos</a>
+    <a href="videos.html">Videos</a>
 </nav>
 
 # My Poetry Collection

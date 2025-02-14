@@ -55,9 +55,13 @@ title: Aaron I. Plex Sulá
 <!-- Curriculum Vitae PDF -->
 [![Download Plex's CV](https://img.shields.io/badge/Download-Plex's_CV-blue?style=for-the-badge&logo=adobe)](PlexCV2025.pdf)
 
-Add important links like Garrettlab.com 
+Hi there! I am Plex, a PhD student in the [Garrett lab](https://www.garrettlab.com/) in the Plant Pathology Department at the University of Florida.
 
 Add interests
+
+**Contact information**
+Institutional email - plexaaron@ufl.edu
+Gmail - plexaaron@gmail.com
 
 <!-- Update note -->
 <p><strong>Last updated:</strong> <span id="last-updated"></span></p>
