@@ -30,7 +30,7 @@ Click on a title to read the poem.
         El mundo se vuelve extraordinario a tu lado.
     </p>
 
-    </p>
+    <p>
         Cinco veranos han sido infiernos pesadísimos.<br>
         1769 noches crueles sin detenerse...<br>
         Te extraño un poco más con cada día que pasa.<br>
