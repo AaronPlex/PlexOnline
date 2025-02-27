@@ -65,7 +65,7 @@ Click on a title to read the poem.
 
 <!-- Poem 2 -->
 <h3 onclick="togglePoem('poem2')" style="cursor: pointer; color: blue;">📖 Memorabilia</h3>
-<div id="poem1" style="display: none;">
+<div id="poem2" style="display: none;">
     <p>
         Canciones de antaño;
         verano azul contigo a mi lado;
@@ -131,9 +131,9 @@ Click on a title to read the poem.
     </p>
 <div>
 
-<!-- Poem 2 -->
-<h3 onclick="togglePoem('poem2')" style="cursor: pointer; color: blue;">📖 Memorabilia</h3>
-<div id="poem1" style="display: none;">
+<!-- Poem 3 -->
+<h3 onclick="togglePoem('poem3')" style="cursor: pointer; color: blue;">📖 La isla del encanto</h3>
+<div id="poem3" style="display: none;">
     <p>
         Con el delicado timbre de tu voz,
         el alma se escapa del cuerpo para rodearte de besos, caricias y abrazos.
