@@ -131,5 +131,36 @@ Click on a title to read the poem.
     </p>
 <div>
 
+<!-- Poem 2 -->
+<h3 onclick="togglePoem('poem2')" style="cursor: pointer; color: blue;">📖 Memorabilia</h3>
+<div id="poem1" style="display: none;">
+    <p>
+        Con el delicado timbre de tu voz,
+        el alma se escapa del cuerpo para rodearte de besos, caricias y abrazos.
+        Cada vez cerca de ti, el cielo eterno.
+        Sin ti, el alma tribula desolado por el desierto del desamor.
+        La esfera del amor se ha ido contigo.
+        El inmenso frío congelador destroza la piel del corazón.
+        Sin ti, los sentimientos inundan el cuerpo de pies a cabeza,
+        queman la garganta como licor ardiente y
+        de los ojos brotan miles de lamentaciones.
+        Ya nunca volveré a verte y
+        la constelación de estrellas va contigo,
+        astro del cielo.
+        Las notas ahora vibran amargamente y
+        penetran como daga de fino filo hasta la sien.
+        Los suspiros de gran tristeza se ahogan solas.
+        La inspiración está marchita, no florece más y
+        senesce con la aridez de la soledad.
+        Todos aquellos diamantes del recuerdo reposan guardados en la sien.
+        Si algún día escuchas esto,
+        tu enamorado ha dicho verdad sublime.
+    </p>
+
+    <p>
+        27 de marzo 2022
+    </p>
+<div>
+
 <script src="togglePoems.js"></script>
 
