@@ -62,5 +62,74 @@ Click on a title to read the poem.
     </p>
 </div>
 
+
+<!-- Poem 2 -->
+<h3 onclick="togglePoem('poem2')" style="cursor: pointer; color: blue;">📖 Memorabilia</h3>
+<div id="poem1" style="display: none;">
+    <p>
+        Canciones de antaño;
+        verano azul contigo a mi lado;
+        primavera roja carmesí entrelazada de verde esmeralda contigo.
+    </p>
+
+    <p>
+        Cuando pienso en ti, mis pensamientos brotan como retoño de primavera.
+    </p>
+
+    <p>
+        Eran rosas rojas que con su fragancia recuerdan a tus amabilidades y tu rostro de príncipe.
+    </p>
+
+    <p>
+        Gotitas de Janan esparcidas sobre mi piel se fusionaban bien con tus piquitos recalientitos.
+    </p>
+
+    <p>
+        La voz angelical del violín de fondo hacía palpitar el diafragma del corazón.
+    </p>
+    
+    <p>
+        La sien del alma descansaba sobre tus pechos almohadones afelpados.
+    </p>
+
+    <p>
+        Pétalos de rosas llovían del cielo y la luz del cariño irradiaba el crepúsculo nocturno.
+    </p>
+
+    <p>
+        Yo posaba entre tus brazos de terciopelo; tú, tus labios se complacían en mi piel canela.
+    </p>
+
+    <p>
+        Nuestros ojos, sinergidas de pupilas dilatadas, se decían cosas bonitas.
+    </p>
+
+    <p>
+        Piquitos y estrellas destellantes nunca faltaron.
+    </p>
+
+    <p>
+        Mas agora los amaneceres son cruelmente helados y congelan cada vez un poquito más al pobre corazón.
+    </p>
+
+    <p>
+        Extraño a morir su dulce mirada que nunca más volverá.
+    </p>
+
+    <p>
+        El alma añora tanto volver a sentir los aleteos de tu corazón.
+    </p>
+
+    <p>
+        ¡Ay, cariño mío!
+        Nuestro encuentro se esfuma en los cielos por una eternidad.
+    </p>
+
+    <p>
+        ¡Ay, corazoncito!
+        Hoy, el caudal del río Nilo se desborda con tempestad en mis ojos.
+    </p>
+<div>
+
 <script src="togglePoems.js"></script>
 
