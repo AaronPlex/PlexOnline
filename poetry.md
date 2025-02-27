@@ -133,7 +133,7 @@ Are you *Ralstonia solanacearum*? Because you've got my heart wilting!
         ¡Ay, corazoncito!
         Hoy, el caudal del río Nilo se desborda con tempestad en mis ojos.
     </p>
-<div>
+</div>
 
 
 <!-- Poem 3 -->
@@ -165,7 +165,7 @@ Are you *Ralstonia solanacearum*? Because you've got my heart wilting!
     <p>
         27 de marzo 2022
     </p>
-<div>
+</div>
 
 <script src="togglePoems.js"></script>
 
