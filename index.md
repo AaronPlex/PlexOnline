@@ -76,8 +76,8 @@ Plex received a Bachelor of Sciences in agricultural and animal sciences from Za
 
 **Contact information**
 
- Institutional email - plexaaron@ufl.edu
- Gmail - plexaaron@gmail.com
+ - Institutional email - plexaaron@ufl.edu
+ - Gmail - plexaaron@gmail.com
 
 <!-- Update note -->
 <p><strong>Last updated:</strong> <span id="last-updated"></span></p>
