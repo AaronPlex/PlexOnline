@@ -18,9 +18,11 @@ Click on a title to read the poem.
 Are you *Ralstonia solanacearum*? Because you've got my heart wilting! 
  - EPPO 2025
 
-Pathogens don't respect political boundaries and travel internationally witha=out the need of a visa
- - Plex 2025
+Pathogens don't respect political boundaries and travel internationally witha=out the need of a visa.
+ - AI Plex 2025
 
+Math is the language, physics is the poetry.
+ - Josue Danilo Molina Rodriguez, Honduras, 2016
 
 <!-- Poem 1 -->
 <h3 onclick="togglePoem('poem1')" style="cursor: pointer; color: blue;">📖 Cold evening</h3>
@@ -175,11 +177,11 @@ Pathogens don't respect political boundaries and travel internationally witha=ou
 <h3 onclick="togglePoem('poem4')" style="cursor: pointer; color: blue;">📖 Pensamientos</h3>
 <div id="poem4" style="display: none;">
     <p>
-        Math is the language, physics is the poetry
+        Agregar poema aqui.
     </p>
 
     <p>
-        Josue Danilo Molina Rodriguez, Honduras, 2016
+        Agregar fecha aqui.
     </p>
 </div>
 
