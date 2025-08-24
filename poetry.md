@@ -18,7 +18,7 @@ Click on a title to read the poem.
 Are you *Ralstonia solanacearum*? Because you've got my heart wilting! 
  - EPPO 2025
 
-Pathogens don't respect political boundaries and travel internationally witha=out the need of a visa.
+Pathogens don't respect political boundaries and travel internationally without the need of a visa.
  - AI Plex 2025
 
 Math is the language, physics is the poetry.
