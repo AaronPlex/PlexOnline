@@ -41,9 +41,9 @@ Avelino J, Carvajal-Yepes M, Cuellar W, Dita Rodriguez MA, Gazis R, Hodson D, Ja
 L, Kreuze JF, Legg J, Mosquera Cifuentes GM, Sonder K, Mahabaleswara SL, Vallad G, Garrett KA.
 **Proactive global biosecurity priorities for pest invasions on crop landscapes and trade networks.** Target journal: *Nature Communications*. A copy is available at [![Download CT ms](https://img.shields.io/badge/Download-CT_ms-blue?style=for-the-badge&logo=adobe)](CT ms.pdf)
 5. Mouafo-Tchinda RA, **Plex Sulá AI**, Etherton B, Choudhury R, Gazis R, Crane J, Garrett KA. **A global risk assessment and surveillance strategy for laurel wilt.** Target journal: *Nature Ecology and Evolution*. A copy is available at 
-**Plex Sulá AI**, Adhikari A, Arinaitwe W, Choudhary M, Choudhury RA, Delaquis E, Etherton BA,
+6. **Plex Sulá AI**, Adhikari A, Arinaitwe W, Choudhary M, Choudhury RA, Delaquis E, Etherton BA,
 Yubak Dhoj GC, Hamelin F, Jones C, McVay JD, Mouafo-Tchinda RA, Navarrete I, Robledo
 Buritica J, Tankam I, With KA, Garrett KA. **Ten principles for surveillance of pathogens and pests in regional landscapes: A primer on network perspectives.** Target journal: *Methods in Ecology and Evolution*. A copy is available at
-**Plex Sulá AI**, Garrett KA. Pathogenica: A global data compilation of epidemiological traits of 1000+
-pathogens. Target journal: *Scientific Data*. A piece of Pathogenica is available at https://www.garrettlab.com/Pathogenica/
-**Plex Sulá AI**, Adikari A, Wang Y, Goss E, Garrett KA. **The global population genetic structure of Potato spindle tuber viroid in major agroecosystems.** Target journal: *Phytopathology*. A copy is available at
+7. **Plex Sulá AI**, Garrett KA. Pathogenica: A global data compilation of epidemiological traits of 1000+
+pathogens. Target journal: *Scientific Data*. A piece of Pathogenica is available at [the Garrett Lab](https://www.garrettlab.com/Pathogenica/)
+8. **Plex Sulá AI**, Adikari A, Wang Y, Goss E, Garrett KA. **The global population genetic structure of Potato spindle tuber viroid in major agroecosystems.** Target journal: *Phytopathology*. A copy is available at
