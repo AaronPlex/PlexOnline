@@ -16,4 +16,8 @@ title: Software
     <img src="geohabnet-logo.jpg" alt="" width="400">
 </p>
 
-Add a link for geohabnet
+The geohabnet package is available at
+
+ - [CRAN](https://cran.r-project.org/web/packages/geohabnet/index.html)
+ - [GitHub](https://github.com/GarrettLab/HabitatConnectivity)
+ - [Webpage](https://garrettlab.github.io/HabitatConnectivity/index.html)
