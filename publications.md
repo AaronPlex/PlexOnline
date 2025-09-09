@@ -30,5 +30,20 @@ title: Publications
 3. Mouafo-Tchinda RA, **Plex Sulá AI**, Etherton BA, Okonya JS, Valentine Nakato GV, Xing Y, Robledo Buritica J, Adhikari A, Blomme G, Kantungeko D, Nduwayezu A, Kreuze J, Kroschel J, Legg J, Garrett KA. **Pest and pathogen communities in food security crops across climate gradients: Anticipating future challenges in the Great Lakes region of Africa.** Preprint available at DOI: [10.1101/2025.01.08.631994](https://doi.org/10.1101/2025.01.08.631994)
 4. Mouafo-Tchinda RA, Etherton BA, **Plex Sulá AI**, Andrade-Piedra J, Ogero K, Omondi BA, McEwan M, Tene Tayo PM, Harahagazme D, Cherinet M, Gebeyehu S, Sperling L. Garrett KA. 2024. **Pathogen and pest risks to vegetatively propagated crops in humanitarian contexts: Geographic priorities for Cameroon and Ethiopia.** Preprint available at DOI: [10.1101/2024.02.12.580019](https://doi.org/10.1101/2024.02.12.580019)
 
-## Manuscripts coming soon...
-
+## 9 in-progress research projects with major contributions
+1. **Plex Sulá AI**, Sarwar MA, Ali S, Qureshi N, Saleem K, Singh PK, Garrett KA, Afzal Z. **A nationwide assessment of major wheat diseases and pests in Pakistan.** Target journal: *Phytopathology*. A copy is available at [![Download wheatPK ms](https://img.shields.io/badge/Download-wheatPK_ms-blue?style=for-the-badge&logo=adobe)](wheatPK ms.pdf)
+2. **Plex Sulá AI**, Robledo Buritica J, Choudhary M, Garrett KA. **Future scenarios for pest and disease management of major crops in California.** Report pending approval by the *California Department of Food and Agriculture (CDFA)*. Contact reference: Brianna McGuire (bmcguire@ucdavis.edu) A copy is available at [![Download C3PA ms](https://img.shields.io/badge/Download-C3PA_ms-blue?style=for-the-badge&logo=adobe)](CaliC3PA ms.pdf)
+3. **Plex Sulá AI**, Keshav K, Adhikari A, Choudhary M, Mouafo-Tchinda RA, Robledo Buritica J, Shah
+S, Garrett KA. **geohabnet: An R package for habitat connectivity of pathogens and pests.** Target
+journal: *Methods in Ecology and Evolution*. The geohabnet is available in [CRAN](https://cran.r-project.org/web/packages/geohabnet/index.html), [GitHub](https://github.com/GarrettLab/HabitatConnectivity), and it own [webpage](https://garrettlab.github.io/HabitatConnectivity/index.html). A copy is available at 
+4. Plex Sulá AI, Alcalá Briseño RI, Xing Y, Etherton BA, Andersen Onofre K, Andrade-Piedra JL,
+Avelino J, Carvajal-Yepes M, Cuellar W, Dita Rodriguez MA, Gazis R, Hodson D, Jarvis A, Kenyon
+L, Kreuze JF, Legg J, Mosquera Cifuentes GM, Sonder K, Mahabaleswara SL, Vallad G, Garrett KA.
+**Proactive global biosecurity priorities for pest invasions on crop landscapes and trade networks.** Target journal: *Nature Communications*. A copy is available at [![Download CT ms](https://img.shields.io/badge/Download-CT_ms-blue?style=for-the-badge&logo=adobe)](CT ms.pdf)
+5. Mouafo-Tchinda RA, **Plex Sulá AI**, Etherton B, Choudhury R, Gazis R, Crane J, Garrett KA. **A global risk assessment and surveillance strategy for laurel wilt.** Target journal: *Nature Ecology and Evolution*. A copy is available at 
+**Plex Sulá AI**, Adhikari A, Arinaitwe W, Choudhary M, Choudhury RA, Delaquis E, Etherton BA,
+Yubak Dhoj GC, Hamelin F, Jones C, McVay JD, Mouafo-Tchinda RA, Navarrete I, Robledo
+Buritica J, Tankam I, With KA, Garrett KA. **Ten principles for surveillance of pathogens and pests in regional landscapes: A primer on network perspectives.** Target journal: *Methods in Ecology and Evolution*. A copy is available at
+**Plex Sulá AI**, Garrett KA. Pathogenica: A global data compilation of epidemiological traits of 1000+
+pathogens. Target journal: *Scientific Data*. A piece of Pathogenica is available at https://www.garrettlab.com/Pathogenica/
+**Plex Sulá AI**, Adikari A, Wang Y, Goss E, Garrett KA. **The global population genetic structure of Potato spindle tuber viroid in major agroecosystems.** Target journal: *Phytopathology*. A copy is available at
