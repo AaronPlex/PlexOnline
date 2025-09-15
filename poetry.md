@@ -5,6 +5,7 @@ title: Poetry
 
 <nav>
     <a href="index.html">Home</a> |
+    <a href="events.html">Events</a> |
     <a href="publications.html">Publications</a> |
     <a href="poetry.html">Poetry</a> |
     <a href="software.html">Software</a> |
