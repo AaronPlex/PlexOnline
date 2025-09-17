@@ -56,7 +56,7 @@ title: Aaron I. Plex Sulá
 <!-- Curriculum Vitae PDF -->
 [![Download Plex's CV](https://img.shields.io/badge/Download-Plex's_CV-blue?style=for-the-badge&logo=adobe)](PlexCV2025.pdf)
 
-Hi there! I am Plex, a PhD student in the [Garrett lab](https://www.garrettlab.com/) in the Plant Pathology Department at the University of Florida.
+Hi there! I am Plex, a PhD student in the [Garrett lab](https://www.garrettlab.com/) and the [Plant Pathology Department](https://plantpath.ifas.ufl.edu/) at the University of Florida.
 
 Aaron I. Plex Sulá (Spanish; born in 5 July 1997) is a Guatemalan engineer in agricultural sciences, data scientist, network scientist, and soon a plant pathologist. 
 
