@@ -17,7 +17,7 @@ title: Events
 Plex is pleased to deliver an oral presentation as part of the [IPRRG](https://pestrisk.org/iprrg-2025/) webinar series. Join us in discussing the new global invasion risk assessment for plant pests (GIRAF 1.0)
 in December.
 <p align="center">
-    <img src="iprrg_logo.png" alt="" width="400">
+    <img src="iprrg_logo.png" alt="" width="300">
 </p>
 
 **Selected past events**
@@ -25,6 +25,11 @@ in December.
 August 5, 2025
  - Plex was invited to provide an oral presentation at the Plant Health 2025 in Honolulu, Hawaii.
 
+October 9, 2024
+ - Plex received the New Frontiers Scholar Award and participated in the national conference on climate change in agriculture at Corteva Agriscience's headquarter in Indianapolis, Indiana.
+ <p align="center">
+    <img src="Corteva-Plex.jpg" alt="" width="400">
+</p>
 
 August 23, 2023
  - Plex was selected to present research progress on global biosecurity at the 12th International Congress of Plant Pathology, held in Lyon, France.
