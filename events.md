@@ -23,12 +23,12 @@ in December.
 **Selected past events**
 
 August 5, 2025
- - Plex was invited to present about GIRAF 1.0 at the Plant Health 2025 in Honolulu, Hawaii.
+ - Plex was invited to present about GIRAF 1.0 at Plant Health 2025 in Honolulu, Hawaii.
  <p align="center">
     <img src="GIRAF1.0.png" alt="" width="400">
 </p>
 
- - Plex also deliver a selected oral presentation on the technical session on tree disease at the Plant Health 2025 in Honolulu, Hawaii. A PDF copy of this presentation is available at [![Download LWppt2025](https://img.shields.io/badge/Download-LW_ppt-blue?style=for-the-badge&logo=adobe)](LWppt2025.pdf)
+ - Plex also delivered a selected oral presentation on the technical session about tree diseases at the Plant Health 2025 in Honolulu, Hawaii. A PDF copy of this presentation is available at [![Download LWppt2025](https://img.shields.io/badge/Download-LW_ppt-blue?style=for-the-badge&logo=adobe)](LWppt2025.pdf)
 <p align="center">
     <img src="LWslide.png" alt="" width="400">
 </p>
