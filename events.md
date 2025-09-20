@@ -27,9 +27,21 @@ August 5, 2025
 
 October 9, 2024
  - Plex received the New Frontiers Scholar Award and participated in the national conference on climate change in agriculture at Corteva Agriscience's headquarter in Indianapolis, Indiana.
- <p align="center">
+<p align="center">
     <img src="Corteva-Plex.jpg" alt="" width="400">
+</p>
+
+April 9, 2024
+ - Plex presented his work on host-pathogen infection networks in major terrestrial agroecosystems at the International Epidemiology Workshop in Foz de Iguazu, Brazil.
+<p align="center">
+    <img src="IEW13.jpg" alt="" width="400">
 </p>
 
 August 23, 2023
  - Plex was selected to present research progress on global biosecurity at the 12th International Congress of Plant Pathology, held in Lyon, France.
+
+December 7, 2019
+ - Plex graduated as an engineer in agriculture from the prestigious Zamorano University, in Honduras.
+<p align="center">
+    <img src="ZamoranoGrad.jpg" alt="" width="400">
+</p>
