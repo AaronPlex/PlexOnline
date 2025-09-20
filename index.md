@@ -39,7 +39,7 @@ title: Aaron I. Plex Sulá
 
 <!-- Profile Picture -->
 <p align="center">
-    <img src="PlexProfile.JPG" alt="" width="500">
+    <img src="PlexProfile.JPG" alt="" width="250">
 </p>
 
 # Autobiography
