@@ -68,3 +68,10 @@ Buritica J, Tankam I, With KA, Garrett KA. **Ten principles for surveillance of 
 </div>
 
 8. **Plex Sulá AI**, Adikari A, Wang Y, Goss E, Garrett KA. **The global population genetic structure of Potato spindle tuber viroid in major agroecosystems.** Target journal: *Phytopathology*. A copy is available at
+
+<h3 onclick="toggleAbstract('abstract2')" style="cursor: pointer; color: dark green;">📖 Abstract</h3>
+<div id="abstract2" style="display: none;"> 
+    <p>
+        Potato spindle tuber viroid (PSTVd) has been reported in 50 countries, with multiple introductions of the pathogen to new regions over the past two decades. PSTVd causes disease in potato and tomato and naturally infects more than 50 host species, yet we lack an assessment of whether there are major genetic groups in the global population of PSTVd. Using PSTVd genome resources in the NCBI database, this study  evaluated the global population structure of PSTVd. We hypothesized that the observed structure of PSTVd populations will reflect either host or geographic sources. Our phylogenetic network analysis using the NeighborNet algorithm identified four major clusters of PSTVd populations. Group 1 included all sequences collected from potato and a few from tomato. Group 2 included PSTVd sequences from Cestrum spp. The other two groups had isolates from Atriplex, Capsicum, Nicandra (Group 3), Brugmansia, Petunia, and Streptosolen (Group 4). PSTVd samples from Solanum spp. were scattered in the phylogenetic network. A Discriminant Analysis of Principal Components (DAPC) identified three main genomic clusters of PSTVd representing distinct geographic regions. The three genomic clusters included isolates from Oceania and Africa (Cluster 1); Russia and Asia (Cluster 2); and Europe (Cluster 3). Isolates from the Americas were shared among the  clusters. Understanding the global population structure of PSTVd is important for the design of genomic surveillance strategies for solanaceous food crop industries and ornamental markets.    
+    </p>
+</div>
