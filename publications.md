@@ -58,13 +58,13 @@ L, Kreuze JF, Legg J, Mosquera Cifuentes GM, Sonder K, Mahabaleswara SL, Vallad 
 6. **Plex Sulá AI**, Adhikari A, Arinaitwe W, Choudhary M, Choudhury RA, Delaquis E, Etherton BA,
 Yubak Dhoj GC, Hamelin F, Jones C, McVay JD, Mouafo-Tchinda RA, Navarrete I, Robledo
 Buritica J, Tankam I, With KA, Garrett KA. **Ten principles for surveillance of pathogens and pests in regional landscapes: A primer on network perspectives.** Target journal: *Methods in Ecology and Evolution*. A copy is available at
-7. **Plex Sulá AI**, Garrett KA. **Pathogenica: A global data compilation of epidemiological traits of 1000+ pathogens.** Target journal: *Scientific Data*. A piece of Pathogenica is available at [the Garrett Lab](https://www.garrettlab.com/Pathogenica/). <h3 onclick="toggleAbstract('abstract1')" style="cursor: pointer; color: dark green;">📖 Abstract</h3>
-<div id="abstract1" style="display: none;">
-    
+7. **Plex Sulá AI**, Garrett KA. **Pathogenica: A global data compilation of epidemiological traits of 1000+ pathogens.** Target journal: *Scientific Data*. A piece of Pathogenica is available at [the Garrett Lab](https://www.garrettlab.com/Pathogenica/). 
+
+<h3 onclick="toggleAbstract('abstract1')" style="cursor: pointer; color: dark green;">📖 Abstract</h3>
+<div id="abstract1" style="display: none;"> 
     <p>
         Global pathogen bioinformatics is foundational for developing effective pandemic preparedness policies. Here, we present Pathogenica – a new global dataset that compiles five biogeographical aspects and ten epidemiological traits of 1,518 plant pathogens. Biogeographical information spans country-level distribution, within-country extent, georeferenced occurrences, climate regions occupied, and year of occurrence. Epidemiological traits include host species, cardinal temperatures, dispersal mechanisms, vector strategy, and key environmental factors. No comparable dataset was available for economically important plant pathogens. Pathogenica mobilizes disaggregated, digitally accessible sources accumulated over 190 years into a machine-readable reference database. Pathogenica will serve as a public good for global stakeholder communities addressing plant health challenges, from foundational research to biosecurity applications.    
     </p>
-
 </div>
 
 8. **Plex Sulá AI**, Adikari A, Wang Y, Goss E, Garrett KA. **The global population genetic structure of Potato spindle tuber viroid in major agroecosystems.** Target journal: *Phytopathology*. A copy is available at
