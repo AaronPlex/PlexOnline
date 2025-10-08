@@ -12,6 +12,17 @@ title: Publications
     <a href="videos.html">Videos</a>
 </nav>
 
+<script>
+function toggleAbstract(id) {
+  const abstract = document.getElementById(id);
+  if (abstract.style.display === "none" || abstract.style.display === "") {
+    abstract.style.display = "block";
+  } else {
+    abstract.style.display = "none";
+  }
+}
+</script>
+
 ## 9 Peer-Reviewed Journal Articles
 1. Robledo J, **Plex Sulá AI**, Jaworski L, Mouafo-Tchinda RA, Andersen Onofre KF, Thomas-Sharma S, Garrett KA. 2025. **[Expert knowledge elicitation: Accessing the big data in experts’ brains.](https://doi.org/10.1094/PHYTO-06-25-0220-FI)** *Phytopathology*, first look.
 2. **Plex Sulá AI**, Orozco J. 2025. **[Contribution to the knowledge of Honduran flesh flies (Diptera: Sarcophagidae).](https://www.scielo.br/j/bn/a/8sqzW68MqzV6MxF7ZFS6F9p/?format=html&lang=en)** *Biota Neotropica* 25(2): e20241740. 
