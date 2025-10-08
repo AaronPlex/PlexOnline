@@ -65,7 +65,7 @@ Management. Invited, currently in review. A copy is available at
 
 3. **Plex Sulá AI**, Keshav K, Adhikari A, Choudhary M, Mouafo-Tchinda RA, Robledo Buritica J, Shah
 S, Garrett KA. **geohabnet: An R package for habitat connectivity of pathogens and pests.** Target
-journal: *Methods in Ecology and Evolution*. The geohabnet is available in [CRAN](https://cran.r-project.org/web/packages/geohabnet/index.html), [GitHub](https://github.com/GarrettLab/HabitatConnectivity), and it own [webpage](https://garrettlab.github.io/HabitatConnectivity/index.html). A copy is available at 
+journal: *Methods in Ecology and Evolution*. The geohabnet is available in [CRAN](https://cran.r-project.org/web/packages/geohabnet/index.html), [GitHub](https://github.com/GarrettLab/HabitatConnectivity), and it own [webpage](https://garrettlab.github.io/HabitatConnectivity/index.html). A copy is available at [![Download geohabnet ms](https://img.shields.io/badge/Download-geohabnet_ms-blue?style=for-the-badge&logo=adobe)](geohabnet ms.pdf) 
 
 <h3 onclick="toggleAbstract('abstract3')" style="cursor: pointer; color: dark green;">📖 Abstract</h3>
 <div id="abstract3" style="display: none;"> 
