@@ -48,7 +48,7 @@ L, Kreuze JF, Legg J, Mosquera Cifuentes GM, Sonder K, Mahabaleswara SL, Vallad 
 Yubak Dhoj GC, Hamelin F, Jones C, McVay JD, Mouafo-Tchinda RA, Navarrete I, Robledo
 Buritica J, Tankam I, With KA, Garrett KA. **Ten principles for surveillance of pathogens and pests in regional landscapes: A primer on network perspectives.** Target journal: *Methods in Ecology and Evolution*. A copy is available at
 7. **Plex Sulá AI**, Garrett KA. **Pathogenica: A global data compilation of epidemiological traits of 1000+ pathogens.** Target journal: *Scientific Data*. A piece of Pathogenica is available at [the Garrett Lab](https://www.garrettlab.com/Pathogenica/).
-<h3 onclick="togglePoem('poem1')" style="cursor: pointer; color: dark green;">📖 Abstract</h3>
+<h3 onclick="toggleAbstract('abstract1')" style="cursor: pointer; color: dark green;">📖 Abstract</h3>
 <div id="abstract1" style="display: none;">
     
     <p>
