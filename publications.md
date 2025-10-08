@@ -33,7 +33,7 @@ Management. Invited, currently in review. A copy is available at
 2. Mouafo-Tchinda RA, **Plex Sulá AI**, Etherton BA, Okonya JS, Valentine Nakato GV, Xing Y, Robledo Buritica J, Adhikari A, Blomme G, Kantungeko D, Nduwayezu A, Kreuze J, Kroschel J, Legg J, Garrett KA. **Pest and pathogen communities in food security crops across climate gradients: Anticipating future challenges in the Great Lakes region of Africa.** Preprint available at DOI: [10.1101/2025.01.08.631994](https://doi.org/10.1101/2025.01.08.631994)
 3. Mouafo-Tchinda RA, Etherton BA, **Plex Sulá AI**, Andrade-Piedra J, Ogero K, Omondi BA, McEwan M, Tene Tayo PM, Harahagazme D, Cherinet M, Gebeyehu S, Sperling L. Garrett KA. 2024. **Pathogen and pest risks to vegetatively propagated crops in humanitarian contexts: Geographic priorities for Cameroon and Ethiopia.** Preprint available at DOI: [10.1101/2024.02.12.580019](https://doi.org/10.1101/2024.02.12.580019)
 
-## 8 in-progress research projects with major contributions
+## 8 research projects in progress
 1. **Plex Sulá AI**, Sarwar MA, Ali S, Qureshi N, Saleem K, Singh PK, Garrett KA, Afzal Z. **A nationwide assessment of major wheat diseases and pests in Pakistan.** Target journal: *Phytopathology*. A copy is available at [![Download wheatPK ms](https://img.shields.io/badge/Download-wheatPK_ms-blue?style=for-the-badge&logo=adobe)](wheatPK ms.pdf)
 2. **Plex Sulá AI**, Robledo Buritica J, Choudhary M, Garrett KA. **Future scenarios for pest and disease management of major crops in California.** Report pending approval by the *California Department of Food and Agriculture (CDFA)*. Contact reference: Brianna McGuire (bmcguire@ucdavis.edu) A copy is available at [![Download C3PA ms](https://img.shields.io/badge/Download-C3PA_ms-blue?style=for-the-badge&logo=adobe)](CaliC3PA ms.pdf)
 3. **Plex Sulá AI**, Keshav K, Adhikari A, Choudhary M, Mouafo-Tchinda RA, Robledo Buritica J, Shah
@@ -48,4 +48,12 @@ L, Kreuze JF, Legg J, Mosquera Cifuentes GM, Sonder K, Mahabaleswara SL, Vallad 
 Yubak Dhoj GC, Hamelin F, Jones C, McVay JD, Mouafo-Tchinda RA, Navarrete I, Robledo
 Buritica J, Tankam I, With KA, Garrett KA. **Ten principles for surveillance of pathogens and pests in regional landscapes: A primer on network perspectives.** Target journal: *Methods in Ecology and Evolution*. A copy is available at
 7. **Plex Sulá AI**, Garrett KA. **Pathogenica: A global data compilation of epidemiological traits of 1000+ pathogens.** Target journal: *Scientific Data*. A piece of Pathogenica is available at [the Garrett Lab](https://www.garrettlab.com/Pathogenica/).
+
+<h3 onclick="togglePoem('abstract1')" style="cursor: pointer; color: dark green;">📖 Abstract</h3>
+<div id="abstract1" style="display: none;">
+    <p>
+        Global pathogen bioinformatics is foundational for developing effective pandemic preparedness policies. Here, we present Pathogenica – a new global dataset that compiles five biogeographical aspects and ten epidemiological traits of 1,518 plant pathogens. Biogeographical information spans country-level distribution, within-country extent, georeferenced occurrences, climate regions occupied, and year of occurrence. Epidemiological traits include host species, cardinal temperatures, dispersal mechanisms, vector strategy, and key environmental factors. No comparable dataset was available for economically important plant pathogens. Pathogenica mobilizes disaggregated, digitally accessible sources accumulated over 190 years into a machine-readable reference database. Pathogenica will serve as a public good for global stakeholder communities addressing plant health challenges, from foundational research to biosecurity applications.    
+    </p>
+</div>
+
 8. **Plex Sulá AI**, Adikari A, Wang Y, Goss E, Garrett KA. **The global population genetic structure of Potato spindle tuber viroid in major agroecosystems.** Target journal: *Phytopathology*. A copy is available at
