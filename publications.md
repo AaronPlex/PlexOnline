@@ -54,23 +54,23 @@ Management. Invited, currently in review. A copy is available at
     </p>
 </div>
 
-2. **Plex Sulá AI**, Robledo Buritica J, Choudhary M, Garrett KA. **Future scenarios for pest and disease management of major crops in California.** Report pending approval by the *California Department of Food and Agriculture (CDFA)*. Contact reference: Brianna McGuire (bmcguire@ucdavis.edu) A copy is available at [![Download C3PA ms](https://img.shields.io/badge/Download-C3PA_ms-blue?style=for-the-badge&logo=adobe)](CaliC3PA ms.pdf)
-
-<h3 onclick="toggleAbstract('abstract1')" style="cursor: pointer; color: dark green;">📖 Abstract</h3>
-<div id="abstract1" style="display: none;"> 
-    <p>
-        ADD ABSTRACT HERE   
-    </p>
-</div>
-
-3. **Plex Sulá AI**, Keshav K, Adhikari A, Choudhary M, Mouafo-Tchinda RA, Robledo Buritica J, Shah
+2. **Plex Sulá AI**, Keshav K, Adhikari A, Choudhary M, Mouafo-Tchinda RA, Robledo Buritica J, Shah
 S, Garrett KA. **geohabnet: An R package for habitat connectivity of pathogens and pests.** Target
-journal: *Methods in Ecology and Evolution*. The geohabnet is available in [CRAN](https://cran.r-project.org/web/packages/geohabnet/index.html), [GitHub](https://github.com/GarrettLab/HabitatConnectivity), and it own [webpage](https://garrettlab.github.io/HabitatConnectivity/index.html). A copy is available at [![Download geohabnet ms](https://img.shields.io/badge/Download-geohabnet_ms-blue?style=for-the-badge&logo=adobe)](geohabnet ms.pdf) 
+journal: *Methods in Ecology and Evolution*. The geohabnet is available in [CRAN](https://cran.r-project.org/web/packages/geohabnet/index.html), [GitHub](https://github.com/GarrettLab/HabitatConnectivity), and it own [webpage](https://garrettlab.github.io/HabitatConnectivity/index.html). Preprint available at DOI: [10.1101/2024.02.12.580019](https://doi.org/10.48550/arXiv.2510.24955)
 
 <h3 onclick="toggleAbstract('abstract3')" style="cursor: pointer; color: dark green;">📖 Abstract</h3>
 <div id="abstract3" style="display: none;"> 
     <p>
         Mapping habitat quality, in terms of factors like host availability and environmental suitability, is a common approach to determining which locations are important for the spread of a species. Mapping habitat connectivity takes geographic analyses a step further, evaluating the potential roles of locations in epidemics, invasions, or species conservation. Locations with high habitat quality may play a minor role in species spread if they are geographically isolated. Yet, a location with lower habitat quality may play a major role in a species’ spread if it acts as a bridge between regions that would otherwise be physically fragmented. Here we introduce the geohabnet R package, which evaluates the likely importance of locations for the spread of species through habitat landscapes. Unlike most software analyzing landscape connectivity, geohabnet incorporates key factors such as dispersal probability and habitat availability in a network framework. These factors are often needed to better understand habitat connectivity for host-dependent species like pathogens, arthropod pests, or pollinators. geohabnet uses publicly available or user-provided datasets, six network centrality metrics, and a user-selected geographic scale (global, national, or regional). We provide examples for the use of geohabnet for surveillance prioritization of emerging plant pathogens in Africa and the Americas. These examples illustrate how users can apply geohabnet for their species of interest and generate maps of the estimated importance of geographic locations during a species’ spread. geohabnet provides a quick, open-source, and reproducible baseline approach to quantify a species’ habitat connectivity across a wide range of geographic scales and evaluates potential scenarios for the expansion of a species through habitat landscapes. Ultimately, geohabnet could support biosecurity programs, invasion science, and conservation biology in prioritizing management efforts for transboundary pathogens and pests or endangered species.   
+    </p>
+</div>
+
+3. **Plex Sulá AI**, Robledo Buritica J, Choudhary M, Garrett KA. **Future scenarios for pest and disease management of major crops in California.** Report pending approval by the *California Department of Food and Agriculture (CDFA)*. Contact reference: Brianna McGuire (bmcguire@ucdavis.edu) A copy is available at [![Download C3PA ms](https://img.shields.io/badge/Download-C3PA_ms-blue?style=for-the-badge&logo=adobe)](CaliC3PA ms.pdf)
+
+<h3 onclick="toggleAbstract('abstract1')" style="cursor: pointer; color: dark green;">📖 Abstract</h3>
+<div id="abstract1" style="display: none;"> 
+    <p>
+        ADD ABSTRACT HERE   
     </p>
 </div>
 
