@@ -20,4 +20,4 @@ The geohabnet package is available at
 
  - [CRAN](https://cran.r-project.org/web/packages/geohabnet/index.html)
  - [GitHub](https://github.com/GarrettLab/HabitatConnectivity)
- - [Webpage](https://garrettlab.github.io/HabitatConnectivity/index.html)
+ - [User guide](https://garrettlab.github.io/HabitatConnectivity/articles/user_guide.html)
