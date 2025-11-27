@@ -143,7 +143,7 @@ Math is the language, physics is the poetry.
 
 
 <!-- Poem 3 -->
-<h3 onclick="togglePoem('poem3')" style="cursor: pointer; color: blue;">📖 La isla del encanto</h3>
+<h3 onclick="togglePoem('poem3')" style="cursor: pointer; color: blue;">📖 Isla del Encanto</h3>
 <div id="poem3" style="display: none;">
     <p>
         Con el delicado timbre de tu voz,
@@ -175,8 +175,37 @@ Math is the language, physics is the poetry.
 
 
 <!-- Poem 4 -->
-<h3 onclick="togglePoem('poem4')" style="cursor: pointer; color: blue;">📖 Pensamientos</h3>
+<h3 onclick="togglePoem('poem4')" style="cursor: pointer; color: blue;">📖 Noche de Luna Llena</h3>
 <div id="poem4" style="display: none;">
+    <p>
+        Los millares de millones de estrellas alumbraban la madrugada. 
+        Ellas se acongojaban al vernos.
+        Los dos tomados de las manos.
+        Danzabamos al son de la vida.
+        Los azulea del cielo al alba sonreían de nosotros al vernos.
+        Los dos acarameladitos en nuestra cuna del alma.
+        Cada vez que pienso en ti,
+        todos los paraísos tropicales de verano se desencadenan en mi mente.
+        De cómo las ingratas ráfagas de viento acariciaban tu pelo canela.
+        De cómo las envidio.
+        De cómo tú con tus ojos de miel te estremecías al verme.
+        Cierro mis ojos y una explosión de hermosura brota frente a mí.
+        De cómo tu caballerosidad se esparcía entre mis entrañas.
+        De cómo el corazón se derretía por uno de tus abrazos.
+        Siempre estuve en el cielo cuando estuve contigo.
+        Pues yo era estrella para ti y tú el cielo para mí.
+        Sueño contigo, vivo pensando en ti.
+    </p>
+
+    <p>
+        Undated
+    </p>
+</div>
+
+
+<!-- Poem 5 -->
+<h3 onclick="togglePoem('poem5')" style="cursor: pointer; color: blue;">📖 Pensamientos</h3>
+<div id="poem5" style="display: none;">
     <p>
         Agregar poema aqui.
     </p>
