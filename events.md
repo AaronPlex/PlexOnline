@@ -17,7 +17,7 @@ title: Events
 Plex is pleased to deliver an oral presentation as part of the [IPRRG](https://pestrisk.org/iprrg-2025/) webinar series. Join us in discussing the new global invasion risk assessment for plant pests (GIRAF 1.0)
 in December.
 <p align="center">
-    <img src="iprrg_logo.png" alt="" width="300">
+    <img src="iprrg.jpg" alt="" width="300">
 </p>
 
 **Selected past events**
