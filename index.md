@@ -54,7 +54,7 @@ title: Aaron I. Plex Sulá
 </p>
 
 <!-- Curriculum Vitae PDF -->
-[![Download Plex's CV](https://img.shields.io/badge/Download-Plex's_CV-blue?style=for-the-badge&logo=adobe)](PlexCV2026.pdf)
+[![Download Plex's CV](https://img.shields.io/badge/Download-Plex's_CV-blue?style=for-the-badge&logo=adobe)](PlexCV-2026.pdf)
 
 Hi there! I am Plex, a PhD student in the [Garrett lab](https://www.garrettlab.com/) and the [Plant Pathology Department](https://plantpath.ifas.ufl.edu/) at the University of Florida.
 
