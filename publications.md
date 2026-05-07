@@ -41,7 +41,7 @@ function toggleAbstract(id) {
 Management. Invited, currently in review.
 
 ## 3 Manuscripts in Review
-1. **Plex Sulá AI**, Batuman O, Cellier G, Dufault NS, Etherton BA, Hodges A, Lowe-Power TM, Paret M, Penca C, Schroeder K, Takeuchi Y, Stilian E, Suder P, Tonnang H, Wang Y, Garrett KA. **An integrated risk assessment framework for proactive global surveillance of invasive pathogens and pests.** In review, *Science Advances*. A copy is available at [![Download giraf ms](https://img.shields.io/badge/Download-giraf_ms-blue?style=for-the-badge&logo=adobe)](giraf ms.pdf)
+1. **Plex Sulá AI**, Batuman O, Cellier G, Dufault NS, Etherton BA, Hodges A, Lowe-Power TM, Paret M, Penca C, Schroeder K, Takeuchi Y, Stilian E, Suder P, Tonnang H, Wang Y, Garrett KA. **GIRAF 1.0: A unified global framework to anticipate plant pest invasions.** In review, *Nature Plants*. Preprint available at DOI: [10.64898/2026.04.23.720440](https://doi.org/10.64898/2026.04.23.720440)
 2. **Plex Sulá AI**, Sarwar MA, Ali S, Qureshi N, Saleem K, Singh PK, Garrett KA, Afzal Z. **A nationwide assessment of major wheat diseases and pests in Pakistan.** *Phytopathology*, minor revison requested. Preprint available at DOI: [10.31220/agriRxiv.2025.00366](https://doi.org/10.31220/agriRxiv.2025.00366)
 3. **Plex Sulá AI**, Keshav K, Adhikari A, Choudhary M, Mouafo-Tchinda RA, Robledo Buritica J, Shah
 S, Garrett KA. **geohabnet: An R package for mapping habitat connectivity for biosecurity and conservation.** In review, *Methods in Ecology and Evolution*. geohabnet is available in [CRAN](https://cran.r-project.org/web/packages/geohabnet/index.html), [GitHub](https://github.com/GarrettLab/HabitatConnectivity), and its own [webpage](https://garrettlab.github.io/HabitatConnectivity/articles/user_guide.html). Preprint available at DOI: [10.1101/2024.02.12.580019](https://doi.org/10.48550/arXiv.2510.24955)
@@ -56,7 +56,7 @@ S, Garrett KA. **geohabnet: An R package for mapping habitat connectivity for bi
     </p>
 </div>
 
-**Plex Sulá AI**, Robledo Buritica J, Choudhary M, Garrett KA. **Future scenarios for pest and disease management of major crops in California.** Report pending approval by the *California Department of Food and Agriculture (CDFA)*. Contact reference: Brianna McGuire (bmcguire@ucdavis.edu) A copy is available at [![Download C3PA ms](https://img.shields.io/badge/Download-C3PA_ms-blue?style=for-the-badge&logo=adobe)](CaliC3PA ms.pdf)
+**Plex Sulá AI**, Robledo Buritica J, Choudhary M, Garrett KA. **Future scenarios for pest and disease management of major crops in California.** CDFA report available at [Rising Tide of Invasive Pests Requires a Dynamic, Resilient, Comprehensive System](https://pressreleases.cdfa.ca.gov/Home/PressRelease/68501583)
 
 <h3 onclick="toggleAbstract('abstract1')" style="cursor: pointer; color: dark green;">📖 Abstract</h3>
 <div id="abstract1" style="display: none;"> 
