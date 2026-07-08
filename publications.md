@@ -44,7 +44,7 @@ S, Garrett KA. **geohabnet: An R package for mapping habitat connectivity for bi
 
 ## 2 Manuscripts in Review
 1. **Plex Sulá AI**, Batuman O, Cellier G, Dufault NS, Etherton BA, Hodges A, Lowe-Power TM, Paret M, Penca C, Schroeder K, Takeuchi Y, Stilian E, Suder P, Tonnang H, Wang Y, Garrett KA. **GIRAF 1.0: A unified global framework to anticipate plant pest invasions.** Under peer review, *PNAS*. Preprint available at DOI: [10.64898/2026.04.23.720440](https://doi.org/10.64898/2026.04.23.720440)
-2. Mouafo-Tchinda RA, Etherton BA, **Plex Sulá AI**, Andrade-Piedra J, Ogero K, Omondi BA, McEwan M, Tene Tayo PM, Harahagazme D, Cherinet M, Gebeyehu S, Sperling L. Garrett KA. 2024. **Pathogen and pest risks to vegetatively propagated crops in humanitarian contexts: Geographic priorities for Cameroon and Ethiopia.** Preprint available at DOI: [10.1101/2024.02.12.580019](https://doi.org/10.1101/2024.02.12.580019)
+2. Mouafo-Tchinda RA, Etherton BA, **Plex Sulá AI**, Andrade-Piedra J, Ogero K, Omondi BA, McEwan M, Tene Tayo PM, Harahagazme D, Cherinet M, Gebeyehu S, Sperling L. Garrett KA. 2024. **Pathogen and pest risks to vegetatively propagated crops in humanitarian contexts: Geographic priorities for Cameroon and Ethiopia.** In revision, *Food Security*. Preprint available at DOI: [10.1101/2024.02.12.580019](https://doi.org/10.1101/2024.02.12.580019)
 
 ## 7 active research projects
 
@@ -101,6 +101,6 @@ Buritica J, Tankam I, With KA, Garrett KA. **Nine principles for surveillance of
 
 **Plex Sulá AI**, Suder P, Danner B, Hodges A, Tonnang HE, Garrett KA. **Designing proactive surveillance strategies based on geographic invasion risk assessment: The case of Phthorimaea absoluta in Southeast United States.** Target journal: *NeoBiota*.
 
-Jaworski LG, **Plex Sulá AI**, Alzamora A, George DM, Robledo J, Leandro M, Garrett KA. **A new disease threat to cacao in the Caribbean: developing strategoes for frosty pod.** Target journal: *Plant Disease*.
+Jaworski LG, **Plex Sulá AI**, Alzamora A, George DM, Robledo J, Leandro M, Garrett KA. **A new disease threat to cacao in the Caribbean: developing strategies for frosty pod.** Target journal: *Plant Disease*.
 
 Adhikari A, **Plex Sulá AI**,  Mouafo-Tchinda RA, Robledo J, Etherton BA, Alcock K, Fontan R, Stronkowsky IV TK, Garrett KA. **Rice health: the global emergence of false smut and ongoing threats in Nepal.** Target journal: *Plant Disease*.

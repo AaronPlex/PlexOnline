@@ -14,13 +14,15 @@ title: Events
 
 **Upcoming events**
 
-Plex is pleased to deliver an oral presentation as part of the [IPRRG](https://pestrisk.org/iprrg-2025/) webinar series. Join us in discussing the new global invasion risk assessment for plant pests (GIRAF 1.0)
-in December 10th at 3:00 PM (EST USA). Join the webinar at https://loom.ly/T9h40f0.
+The Garrett Lab is pleased to present a workshop at the Ecological Society of America 2026 Annual Meeting. The wokshop topic is **Mapping Habitat Connectivity for Biosecurity, Conservation, and Invasion Ecology: A Practical Workshop Using the geohabnet R Package**. 
+
+**Selected past events**
+
+December 10, 2025
+ - Plex is pleased to deliver an oral presentation as part of the [IPRRG](https://pestrisk.org/iprrg-2025/) webinar series. A YouTube video of this webinar is available at https://www.youtube.com/watch?v=6O4Eke0NCXQ&list=LL&index=56&t=18s
 <p align="center">
     <img src="iprrg.jpg" alt="" width="300">
 </p>
-
-**Selected past events**
 
 August 5, 2025
  - Plex was invited to present about GIRAF 1.0 at Plant Health 2025 in Honolulu, Hawaii.
