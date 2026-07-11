@@ -25,6 +25,75 @@ Pathogens don't respect political boundaries and travel internationally without 
 Math is the language, physics is the poetry.
  - Josue Danilo Molina Rodriguez, Honduras, 2016
 
+
+<!-- Poem 10 -->
+<h3 onclick="togglePoem('poem10')" style="cursor: pointer; color: blue;">📖 Majestad</h3>
+<div id="poem10" style="display: none;">
+    <p>
+        El alma humana danza solo ante su majestad:<br>
+        Pienso cada momento de todos sus besos en mi frente.<br>
+        Solo en ti la sabiduría emerge, tú la piensas.<br>
+        Solo en ti la luz habita, solo tú propagas la luz.<br>
+        La generación está en ti.<br>
+        Solo contigo todos los sueños son realidad y las realidades son como sueños.<br>
+        Tú vista es mucho más profunda que la mía porque me haces ver aun estando yo ciego,<br>
+        me haces escuchar con estos mis oídos sordos,<br>
+        tus caricias son suaves en mi piel.<br>
+        Degusto con delicia tus bondades.<br>   
+    </p>
+
+    <p>
+        Solo estando contigo mi corazón no es frío.<br>
+        Solo contigo, el corazón no hierve.<br>
+        Contigo el corazón está calientito.<br>
+        Distanciarme de ti es la peor opción.<br>
+        Estar contigo es lo mejor de la vida.
+    </p>
+
+    <p>
+        Tu vista provee luz en todas sus direcciones,<br> 
+        tu vista brinda sabiduría en todas sus dimensiones.<br> 
+        Tú eres el unico que alumbra nuestro caminar.<br> 
+        La tranquilidad de mi alma se postra en tu sien.<br> 
+        Su cabeza está llena de buena governanza <br> 
+        y sobre ella reposa la verdad infinita.
+    </p>
+
+    <p>
+        La carne grita vanidad: <br>
+        Tu amor para conmigo ha sido por milenios. <br>
+        ¿Qué podría darte yo? <br>
+        Yo siendo nada, todo es tuyo. <br>
+        Tú que me has amado desde los principios, <br>
+        mucho antes de mi nacimiento y concepción. <br>
+        Tú me has favorecido mucho antes que yo te lo pidiera.
+    </p>
+
+    <p>
+        Yo solo te he dado maldades y tristezas todos los días. <br>
+        Tú has sido tan dadivoso conmigo y me haces acreedor de lo inmerecido. <br>
+        Yo no puedo amarte como tú me amas. <br>
+        Estoy tan triste porque el unico que me ha amado de verdad, le he fallado. <br>
+        Mi vida no vale nada sin él. <br>
+        Cuando solo en él la vida es cierta. <br>
+        Solo en él se vive de verdad.
+    </p>
+
+    <p>
+        Tu protección para con nosotros la manifiestas de múltiples formas. <br>
+        La antorcha de fuego y aire, con Moises tu estabas. <br>
+        Tus angeles y querubines salvaguardan mi vida por ti. <br>
+        ¿Cómo pues puedo ser yo tan malo contigo? <br>
+        Su valor incalculable es. <br>
+        Gracias a ti pertenezco a un reino donde el rey es misericordioso y su perdon es abundante.
+    </p>
+
+    <p>
+        5 de julio del 2022
+    </p>
+</div>
+
+
 <!-- Poem 1 -->
 <h3 onclick="togglePoem('poem1')" style="cursor: pointer; color: blue;">📖 Cold evening</h3>
 <div id="poem1" style="display: none;">
